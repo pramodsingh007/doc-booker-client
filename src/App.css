@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+body{
+    font-family: 'Manrope', sans-serif;
+}
+
+._sticky{
+    width: 100%;
+    position: sticky;
+    top: 0;
+    right: 0;
+}
+
